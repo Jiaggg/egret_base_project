@@ -1,0 +1,190 @@
+{
+	"groups": [
+		{
+			"keys": "default_ui_button_down_png,default_ui_button_up_png,default_ui_checkbox_select_up_png,default_ui_checkbox_select_down_png,default_ui_checkbox_select_disabled_png,default_ui_radiobutton_select_disabled_png,default_ui_radiobutton_select_down_png,default_ui_radiobutton_select_up_png,default_ui_button_disable_png,default_ui_checkbox_unselect_disable_png,default_ui_checkbox_unselect_down_png,default_ui_checkbox_unselect_up_png,default_ui_item_render_disable_png,default_ui_item_render_down_png,default_ui_item_render_up_png,default_ui_pannel_border_png,default_ui_pannel_header_png,default_ui_progressbar_thumb_png,default_ui_progressbar_track_png,default_ui_radiobutton_unselect_up_png,default_ui_radiobutton_unselect_down_png,default_ui_radiobutton_unselect_disable_png,default_ui_textinput_bg_png,default_ui_toggleswitch_off_disable_png,default_ui_toggleswitch_off_down_png,default_ui_toggleswitch_off_up_png,default_ui_toggleswitch_on_disable_png,default_ui_toggleswitch_on_down_png,default_ui_toggleswitch_on_up_png,default_ui_toggleswitch_handle_png,default_ui_hscrollbar_thumb_png,default_ui_vscrollbar_thumb_png,default_ui_hslider_thumb_png,default_ui_hslider_track_png,default_ui_vslider_thumb_png,default_ui_vslider_track_png",
+			"name": "default_uiskin"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/default_ui/default_ui_button_down.png",
+			"type": "image",
+			"name": "default_ui_button_down_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_button_up.png",
+			"type": "image",
+			"name": "default_ui_button_up_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_checkbox_select_disabled.png",
+			"type": "image",
+			"name": "default_ui_checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_checkbox_select_down.png",
+			"type": "image",
+			"name": "default_ui_checkbox_select_down_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_checkbox_select_up.png",
+			"type": "image",
+			"name": "default_ui_checkbox_select_up_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "default_ui_radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_radiobutton_select_down.png",
+			"type": "image",
+			"name": "default_ui_radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_radiobutton_select_up.png",
+			"type": "image",
+			"name": "default_ui_radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_button_disable.png",
+			"type": "image",
+			"name": "default_ui_button_disable_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_checkbox_unselect_disable.png",
+			"type": "image",
+			"name": "default_ui_checkbox_unselect_disable_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_checkbox_unselect_down.png",
+			"type": "image",
+			"name": "default_ui_checkbox_unselect_down_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_checkbox_unselect_up.png",
+			"type": "image",
+			"name": "default_ui_checkbox_unselect_up_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_item_render_disable.png",
+			"type": "image",
+			"name": "default_ui_item_render_disable_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_item_render_down.png",
+			"type": "image",
+			"name": "default_ui_item_render_down_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_item_render_up.png",
+			"type": "image",
+			"name": "default_ui_item_render_up_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_pannel_border.png",
+			"type": "image",
+			"name": "default_ui_pannel_border_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_pannel_header.png",
+			"type": "image",
+			"name": "default_ui_pannel_header_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_progressbar_thumb.png",
+			"type": "image",
+			"name": "default_ui_progressbar_thumb_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_progressbar_track.png",
+			"type": "image",
+			"name": "default_ui_progressbar_track_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_radiobutton_unselect_disable.png",
+			"type": "image",
+			"name": "default_ui_radiobutton_unselect_disable_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_radiobutton_unselect_down.png",
+			"type": "image",
+			"name": "default_ui_radiobutton_unselect_down_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_radiobutton_unselect_up.png",
+			"type": "image",
+			"name": "default_ui_radiobutton_unselect_up_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_textinput_bg.png",
+			"type": "image",
+			"name": "default_ui_textinput_bg_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_toggleswitch_off_disable.png",
+			"type": "image",
+			"name": "default_ui_toggleswitch_off_disable_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_toggleswitch_off_down.png",
+			"type": "image",
+			"name": "default_ui_toggleswitch_off_down_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_toggleswitch_off_up.png",
+			"type": "image",
+			"name": "default_ui_toggleswitch_off_up_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_toggleswitch_on_disable.png",
+			"type": "image",
+			"name": "default_ui_toggleswitch_on_disable_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_toggleswitch_on_down.png",
+			"type": "image",
+			"name": "default_ui_toggleswitch_on_down_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_toggleswitch_on_up.png",
+			"type": "image",
+			"name": "default_ui_toggleswitch_on_up_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_toggleswitch_handle.png",
+			"type": "image",
+			"name": "default_ui_toggleswitch_handle_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_hscrollbar_thumb.png",
+			"type": "image",
+			"name": "default_ui_hscrollbar_thumb_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_vscrollbar_thumb.png",
+			"type": "image",
+			"name": "default_ui_vscrollbar_thumb_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_hslider_thumb.png",
+			"type": "image",
+			"name": "default_ui_hslider_thumb_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_hslider_track.png",
+			"type": "image",
+			"name": "default_ui_hslider_track_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_vslider_thumb.png",
+			"type": "image",
+			"name": "default_ui_vslider_thumb_png"
+		},
+		{
+			"url": "assets/default_ui/default_ui_vslider_track.png",
+			"type": "image",
+			"name": "default_ui_vslider_track_png"
+		}
+	]
+}

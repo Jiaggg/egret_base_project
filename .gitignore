@@ -1,0 +1,12 @@
+.wing
+bin-debug
+bin-release
+libs
+polyfill
+template
+egretProperties.json
+favicon.ico
+index.html
+tsconfig.json
+wingProperties.json
+
